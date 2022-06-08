@@ -1,0 +1,95 @@
+*, *::before, *::after {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body{
+	color:#555;
+	font-size:16px;
+	margin:0;
+    background-image: url('../Images/bgweb.png');
+    font-weight: bold;
+}
+
+.container{
+	width:80%;
+	margin:auto;
+	overflow:hidden;
+}
+
+#main-header{
+	background-color:coral;
+	color:#fff;
+}
+
+#navbar{
+	color:#fff;
+}
+
+#navbar ul{
+	padding:0;
+	list-style: none;
+}
+
+#navbar li{
+	display:inline;
+}
+
+#navbar a{
+	color:#fff;
+	text-decoration: none;
+	font-size:18px;
+	padding-right:15px;
+    border-radius: 20px;
+    transition: all;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in-out;
+}
+
+#navbar a:hover {
+    background-color: #ddd(65, 65, 245, 0.979);
+    color: rgb(59, 159, 241);
+    border-radius: 20px;
+    transition: all;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in-out;
+}
+
+.main-footer{
+	color:#fff;
+	text-align: center;
+	padding:20px;
+    margin-right: 8%;
+	margin-top:300px;
+    width: auto;
+}
+
+.main-footer a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.contacts {
+	color: #fff;
+	padding: 1rem;
+	border-radius: .25rem;
+	text-align: center;
+	margin-top: 300px;
+}
+
+.contact-header{
+	font-size: 1.5rem;
+	margin-bottom: .5rem;
+}
+
+.contact-body {
+	font-size: 1.5rem;
+}
+
+.contact-footer{
+	margin-top: 1rem;
+}
+
+.contact-footer a{
+	text-decoration: none;
+	color: white;
+}
