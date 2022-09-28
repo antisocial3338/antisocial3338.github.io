@@ -1,0 +1,72 @@
+body {
+    border-radius: 50px;
+    background: #4a4545;
+    font-family: 'Dosis', sans-serif;
+    box-shadow:  30px 30px 61px #3f3b3b,
+             -30px -30px 61px #554f4f;
+}
+
+.dino {
+    border: 4px solid aqua;
+    font-size: 45px;
+    color: #D5CFCD;
+}
+
+.dino a {
+    text-decoration: none;
+    color: #D5CFCD;
+}
+
+.dino-li {
+    list-style: none;
+    text-align: center;
+}
+
+.dino-p {
+    list-style: none;
+    text-align: center;
+}
+
+.flappy {
+    border: 4px solid aqua;
+    font-size: 45px;
+    color: #D5CFCD;
+    margin-top: 50px;
+}
+
+.flappy a {
+    text-decoration: none;
+    color: #D5CFCD;
+}
+
+.flappy-li {
+    list-style: none;
+    text-align: center;
+}
+
+.flappy-p {
+    list-style: none;
+    text-align: center;
+}
+
+.fall {
+    border: 4px solid aqua;
+    font-size: 45px;
+    color: #D5CFCD;
+    margin-top: 50px;
+}
+
+.fall a {
+    text-decoration: none;
+    color: #D5CFCD;
+}
+
+.fall-li {
+    list-style: none;
+    text-align: center;
+}
+
+.fall-p {
+    list-style: none;
+    text-align: center;
+}
