@@ -13,83 +13,18 @@ body {
     color: #D5CFCD;
 }
 
-.dino a {
+.div a {
     text-decoration: none;
     color: #D5CFCD;
 }
 
-.dino-li {
+.div li {
     list-style: none;
     text-align: center;
 }
 
-.dino-p {
+.div p {
     list-style: none;
     text-align: center;
 }
 
-.flappy {
-    border: 4px solid aqua;
-    font-size: 45px;
-    color: #D5CFCD;
-    margin-top: 50px;
-}
-
-.flappy a {
-    text-decoration: none;
-    color: #D5CFCD;
-}
-
-.flappy-li {
-    list-style: none;
-    text-align: center;
-}
-
-.flappy-p {
-    list-style: none;
-    text-align: center;
-}
-
-.fall {
-    border: 4px solid aqua;
-    font-size: 45px;
-    color: #D5CFCD;
-    margin-top: 50px;
-}
-
-.fall a {
-    text-decoration: none;
-    color: #D5CFCD;
-}
-
-.fall-li {
-    list-style: none;
-    text-align: center;
-}
-
-.fall-p {
-    list-style: none;
-    text-align: center;
-}
-
-.snake {
-    border: 4px solid aqua;
-    font-size: 45px;
-    color: #D5CFCD;
-    margin-top: 50px;
-}
-
-.snake a {
-    text-decoration: none;
-    color: #D5CFCD;
-}
-
-.snake-li {
-    list-style: none;
-    text-align: center;
-}
-
-.snake-p {
-    list-style: none;
-    text-align: center;
-}
