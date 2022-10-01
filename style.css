@@ -32,3 +32,7 @@ body {
 .foot {
     color: white;
 }
+
+.anti {
+    text-decoration: underline;
+}
