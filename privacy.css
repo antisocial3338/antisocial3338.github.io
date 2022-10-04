@@ -1,0 +1,21 @@
+body {
+    border-radius: 500px;
+    background: #4a4545;
+    font-family: 'Dosis', sans-serif;
+    height: 500px;
+    color: white;
+}
+
+.container {
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+}
+
+li {
+    list-style: none;
+}
+
+a:link {
+    color: crimson;
+}  
